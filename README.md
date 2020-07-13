@@ -1,7 +1,7 @@
 
 # phd-advice
 
-> A list of advisory blogs and other resources that I have found useful.
+> A collection of advisory blogs and other resources that I have found useful.
 
 
 ## Giving Research Talks:
@@ -24,9 +24,9 @@
 * [Write to Express, Not to Impress](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe) `blog` - Ali Mese
 * [Tweet](https://twitter.com/samgreydanus/status/1241931525060317184) `tweet` - Sam Greydanus
 * Some books:
-    * The elements of style - Strunk and White
-    * Sense of Style - Steven Pinker
-    * On Writing Well - William Zinsser
+	* [The elements of style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_3?dchild=1&keywords=Strunk+and+White&qid=1594244921&sr=8-3) - Strunk and White
+	* [Sense of Style](https://www.amazon.com/Sense-Style-Thinking-Persons-Writing-ebook/dp/B00INIYG74/ref=sr_1_1?dchild=1&keywords=Sense+of+Style+-+Steven+Pinker&qid=1594244962&sr=8-1) - Steven Pinker
+	* [On Writing Well](https://www.amazon.com/s?k=On+Writing+Well&ref=nb_sb_noss) - William Zinsser
 
 
 ## Miscellaneous (uncategorized) PhD/Research Resources:
@@ -36,7 +36,7 @@
 * [Advice for Research Students](http://www.cs.jhu.edu/~jason/advice/) `website` - Jason Eisner
 * [Advice for short-term ml research projects](https://rockt.github.io/2018/08/29/msc-advice) `blog` - Tim Rocktaschel's
 * [How to Do Great Research](https://greatresearch.org/) `website` - Nick Feamster and Alex Gray
-* [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/) `blog` - SEBASTIAN RUDER
+* [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/) `blog` - Sebastian Ruder
 * [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) `blog` - John Schulman
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) `blog` - Richard Hamming
 * [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) `blog` - Michael Nielsen
