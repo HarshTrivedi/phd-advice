@@ -34,7 +34,7 @@
 * [How to be a successful PhD Student](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf) `doc` - Mark Dredze, Hanna M. Wallach
 * [Increasing Well-being in academia](https://medium.com/@isabelle.augenstein/increasing-well-being-in-academia-97f3ebc1599f) `blog` - Isabelle Augenstein
 * [Advice for Research Students](http://www.cs.jhu.edu/~jason/advice/) `website` - Jason Eisner
-* [Advice for short-term ml research projects](https://rockt.github.io/2018/08/29/msc-advice) `blog` - Tim Rocktaschel's
+* [Advice for short-term ml research projects](https://rockt.github.io/2018/08/29/msc-advice) `blog` - Tim Rocktaschel
 * [How to Do Great Research](https://greatresearch.org/) `website` - Nick Feamster and Alex Gray
 * [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/) `blog` - Sebastian Ruder
 * [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html) `blog` - John Schulman
