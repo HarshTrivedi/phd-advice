@@ -17,6 +17,7 @@
 * [How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y) `video` - Simon Peyton Jones
 * [Talk on the book “Sense of Style”](https://www.youtube.com/watch?v=OV5J6BfToSw) `video` - Steven Pinker
 * [Another talk on the book “Sense of Style”](https://www.youtube.com/watch?v=cYhjo5O-nfg) `video` - Steven Pinker
+* [Storytelling 101: Writing Tips for Researchers](https://medium.com/great-research/storytelling-101-writing-tips-for-academics-d9eec50eec9) `blog` - Nick Feamster
 * [Stylish Academic Writing](https://www.youtube.com/watch?v=nQsRvAVSVeM) `video` - Helen Sword
 * [Scientific Writing](https://www.youtube.com/watch?v=jLPCdDp_LE0) `video` - Judy Swan
 * [Shortening papers to fit page limits](https://medium.com/@deviparikh/shortening-papers-to-fit-page-limits-97601318681d) `blog` - Devi Parikh
