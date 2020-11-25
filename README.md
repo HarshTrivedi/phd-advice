@@ -23,7 +23,7 @@
 * [Shortening papers to fit page limits](https://medium.com/@deviparikh/shortening-papers-to-fit-page-limits-97601318681d) `blog` - Devi Parikh
 * [Novelist’s tips on writing a great scientific paper](https://www.nature.com/articles/d41586-019-02918-5) `blog` 
 * [Write to Express, Not to Impress](https://medium.com/swlh/write-to-express-not-to-impress-465d628f39fe) `blog` - Ali Mese
-* Shomir Wilson's [Advice for Students](https://shomir.net/advice_for_students.html) `blog` and [Guide for Scholarly Writing](https://shomir.net/scholarly_writing.html) `blog`.
+* [Advice for Students](https://shomir.net/advice_for_students.html) `blog` and [Guide for Scholarly Writing]https://shomir.net/scholarly_writing.html) `blog` - Shomir Wilson.
 * [Tweet](https://twitter.com/samgreydanus/status/1241931525060317184) `tweet` - Sam Greydanus
 * Some books:
 	* [The elements of style](https://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_3?dchild=1&keywords=Strunk+and+White&qid=1594244921&sr=8-3) - Strunk and White
